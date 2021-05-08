@@ -1,0 +1,39 @@
+
+    
+.footer-wave {
+    background-image: url("/images/wave-footer.svg");
+    height: 420px;
+    background-size: cover;
+    background-position: center;
+}
+.footer-box {
+    background-color: #0099ff;
+    height: 160px;
+    width: auto;
+}
+
+.footer-logo {
+    display: inline-block;
+}
+.footer-brand {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 25px;
+}
+.footer-list {
+    list-style-type: none;
+}
+.footer-list-item {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 500;
+}
+.footer-link{
+    color: #ffffff;
+    text-decoration: none;
+}
+.footer-copyright {
+    font-size: 14px;
+    font-weight: 400;
+}
